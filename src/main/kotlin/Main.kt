@@ -23,5 +23,7 @@ fun main(args: Array<String>) {
         null-> println("when null executed")
         else-> println("when else executed")
     }
+    fun01()
+
 
 }
